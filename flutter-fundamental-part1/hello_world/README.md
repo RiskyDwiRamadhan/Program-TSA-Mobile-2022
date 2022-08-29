@@ -6,3 +6,5 @@ A new Flutter project.
 ## Menerapkan Widget Dasar
 ### Text Widget
 ![Screenshot  Text_Widget](images/02.png)
+### Image Widget
+![Screenshot  Image_Widget](images/03.png)
