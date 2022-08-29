@@ -11,3 +11,5 @@ A new Flutter project.
 ## Menerapkan Widget Material Design dan iOS Cupertino
 ### Cupertino Button dan Loading Bar
 ![Screenshot  Cupertino_Button_dan_Loading_Bar](images/04.png)
+### Floating Action Button (FAB)
+![Screenshot  FAB](images/05.png)

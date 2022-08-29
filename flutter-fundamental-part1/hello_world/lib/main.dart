@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 // import 'basic_widgets/text_widget.dart';
 // import 'basic_widgets/image_widget.dart';
-import 'basic_widgets/loading_cupertino.dart';
+// import 'basic_widgets/loading_cupertino.dart';
+import 'basic_widgets/fab_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -78,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
         // the App.build method, and use it to set our appbar title.
         title: Text(widget.title),
       ),
-      body: MyLoadingCupertinoWidget(),
+      body: fab_widget(),
       // body: Center(
       //   // Center is a layout widget. It takes a single child and positions it
       //   // in the middle of the parent.
@@ -107,11 +108,11 @@ class _MyHomePageState extends State<MyHomePage> {
       //     ],
       //   ),
       // ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: const Icon(Icons.add),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
+      // floatingActionButton: FloatingActionButton(
+      //   onPressed: _incrementCounter,
+      //   tooltip: 'Increment',
+      //   child: const Icon(Icons.add),
+      // ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
 }
