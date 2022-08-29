@@ -4,7 +4,8 @@ import 'package:flutter/material.dart';
 // import 'basic_widgets/loading_cupertino.dart';
 // import 'basic_widgets/fab_widget.dart';
 // import 'basic_widgets/scaffold_widget.dart';
-import 'basic_widgets/dialog_widget.dart';
+// import 'basic_widgets/dialog_widget.dart';
+import 'basic_widgets/input_selection_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       home: Scaffold(
-        body: MyDialogWidget(),
+        body: MyInputWidget(),
       ),
     );
   }
