@@ -15,3 +15,5 @@ A new Flutter project.
 ![Screenshot FAB](images/05.png)
 ### Scaffold Widget
 ![Screenshot Scaffold_Widget](images/06.png)
+### Dialog Widget
+![Screenshot Dialog_Widget](images/07.png)
