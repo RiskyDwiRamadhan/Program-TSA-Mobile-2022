@@ -11,3 +11,5 @@ Tampilan yang didapat sama saja tetapi perbedaanya ada pada proses GestureDetect
 3. onLongPress itu diproses ketika widget ditekan lama(beberapa detik).
 ## Praktikum 2: Menerapkan Input Widget dan Forms
 ![Screenshot Forms](images/02.png)
+## Praktikum 3: Menerapkan Custom Input dan FormField Widget
+![Screenshot Forms](images/03.png)
