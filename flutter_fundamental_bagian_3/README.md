@@ -1,16 +1,11 @@
-# flutter_fundamental_bagian_3
+# 18 flutter_fundamental_bagian_3
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Praktikum 1: Menerapkan Gesture Detector
+## GestureDetector
+![Screenshot Text_Widget](images/01.png)
+## Eksperimen Jenis Gesture Lain
+Tampilan yang didapat sama saja tetapi perbedaanya ada pada proses GestureDetector yaitu:
+1. onTap itu diproses ketika widget ditekan sekali.
+2. onDoubleTap itu diproses ketika widget ditekan duakali.
+3. onLongPress itu diproses ketika widget ditekan lama(beberapa detik).
