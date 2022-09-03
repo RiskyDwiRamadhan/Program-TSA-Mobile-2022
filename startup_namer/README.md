@@ -1,16 +1,14 @@
 # startup_namer
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Praktikum 1: Membuat Project Flutter Awal
+![Screenshot GestureDetector](images/pk1.png)
+## Praktikum 2: Cara Menggunakan paket eksternal
+Menambahkan dependensi 'english_words' kedalam file pubspec.yaml
+![Screenshot GestureDetector](images/pk2a.png)
+Menggunakan Paket external
+![Screenshot GestureDetector](images/pk2b.png)
+## Praktikum 3: Tambahkan widget stateful
+![Screenshot GestureDetector](images/pk3.png)
+## Praktikum 4: Menambahkan Listview dengan 'RandomWords'
+![Screenshot GestureDetector](images/pk4.png)
