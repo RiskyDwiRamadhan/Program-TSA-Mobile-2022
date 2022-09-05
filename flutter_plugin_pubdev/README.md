@@ -2,6 +2,7 @@
 
 ## Tugas Praktikum
 1. Selesaikan Praktikum tersebut, lalu dokumentasikan dan push ke repository Anda berupa screenshot hasil pekerjaan beserta penjelasannya di file README.md!
+![Screenshot Praktikum 22](images/01.png)
 2. Jelaskan maksud dari langkah 2 pada praktikum tersebut! <br>
 **Jawab:** Pada langkah 2 ini yaitu menambahkan plugin yang dibutuhkan yaitu auto_size_text
 3. Jelaskan maksud dari langkah 5 pada praktikum tersebut!<br>
