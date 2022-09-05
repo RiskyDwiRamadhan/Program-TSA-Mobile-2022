@@ -2,13 +2,13 @@
 
 ## Tugas Praktikum
 1. Selesaikan Praktikum tersebut, lalu dokumentasikan dan push ke repository Anda berupa screenshot hasil pekerjaan beserta penjelasannya di file README.md!
-2. Jelaskan maksud dari langkah 2 pada praktikum tersebut!
+2. Jelaskan maksud dari langkah 2 pada praktikum tersebut! <br>
 **Jawab:** Pada langkah 2 ini yaitu menambahkan plugin yang dibutuhkan yaitu auto_size_text
-3. Jelaskan maksud dari langkah 5 pada praktikum tersebut!
+3. Jelaskan maksud dari langkah 5 pada praktikum tersebut!<br>
 **Jawab:** Pada langkah 4 masih terjadi error karena variable text masih belum didevinisikan dan menambahkan parameter text sebagai required(harus ada textnya).
-4. Pada langkah 6 terdapat dua widget yang ditambahkan, jelaskan fungsi dan perbedaannya!
+4. Pada langkah 6 terdapat dua widget yang ditambahkan, jelaskan fungsi dan perbedaannya!<br>
 **Jawab:** pada widget pertama yaitu memanggil RedTextWidget yang telah menggimplemantasi auto_size_text dengan background kuning dan panjang 50, sedangakan untuk widget ke 2 yaitu dia memanggil text biasa dengan background hijau dan panjang 100. 
-5. Jelaskan maksud dari tiap parameter yang ada di dalam plugin auto_size_text berdasarkan tautan pada dokumentasi ini !
+5. Jelaskan maksud dari tiap parameter yang ada di dalam plugin auto_size_text berdasarkan tautan pada dokumentasi ini !<br>
 **Jawab:** Penjelasan dari tiap parameter tersebut seperti berikut ini:
 - key : Mengontrol bagaimana satu widget menggantikan widget lain di pohon
 - textKey : Setel kunci untuk Textwidget yang dihasilkan
