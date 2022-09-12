@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_movies/server/http_service.dart';
 
-// import 'movie_detail.dart';
+import 'movie_detail.dart';
 
 class MovieList extends StatefulWidget {
   const MovieList({Key? key}) : super(key: key);
@@ -53,12 +53,11 @@ class _MovieListState extends State<MovieList> {
                     title: Text(movies[pos].title),
                     subtitle:
                         Text('Rating: ' + movies[pos].voteAverage.toString()),
-                    // onTap: (){
-                    //   MaterialPageRoute route = MaterialPageRoute(
-                    //     builder: (_) => MovieDetail(movie: movies[pos])
-                    //   );
-                    //   Navigator.push(context, route);
-                    // },
+                    onTap: () {
+                      MaterialPageRoute route = MaterialPageRoute(
+                          builder: (_) => MovieDetail(movie: movies[pos]));
+                      Navigator.push(context, route);
+                    },
                   ),
                 );
               },
