@@ -1,7 +1,18 @@
 # Get to know Firebase for Flutter codelab
 
-This code supports the [Get to know Firebase for Flutter][] codelab. The
-directories are the state of the project at the end of the numbered step
-in the codelab.
+## Membuat Login dan Register
+![Screenshot Image_Widget](images/01.png)
+![Screenshot Image_Widget](images/02.png)
+![Screenshot Image_Widget](images/03.png)
+![Screenshot Image_Widget](images/05.png)
 
-[Get to know Firebase for Flutter]: https://firebase.google.com/codelabs/firebase-get-to-know-flutter
+## Data User Tersimpan Di Database Firebase
+![Screenshot Image_Widget](images/04.png)
+
+## Menambahkan Form Discus
+![Screenshot Image_Widget](images/06.png)
+![Screenshot Image_Widget](images/07.png)
+![Screenshot Image_Widget](images/09.png)
+
+## Data Discus Tersimpan Di Database Firebase
+![Screenshot Image_Widget](images/08.png)
