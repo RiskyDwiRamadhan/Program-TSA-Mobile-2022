@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'transform.dart';
 import 'perspective.dart';
+import 'flip_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,11 +13,17 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
+      theme: ThemeData.light().copyWith(
+        scaffoldBackgroundColor: Colors.white,
       ),
-      home: const PerspectivePage(title: 'Perspective Widget'),
+      title: 'FlipPanel',
+      routes: {
+        'flip_image': (_) => AnimatedImagePage(),
+        'flip_clock': (_) => FlipClockPage(),
+        'countdown_clock': (_) => CountdownClockPage(),
+        'reverse_countdown': (_) => ReverseCountdown(),
+      },
+      home: FlipPage(),
     );
   }
 }
