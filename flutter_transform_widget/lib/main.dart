@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'transform.dart';
-import 'perspective.dart';
-import 'flip_widget.dart';
+import 'Widget/transform.dart';
+import 'Widget/perspective.dart';
+import 'Widget/flip_widget.dart';
 
 void main() {
   runApp(const MyApp());
